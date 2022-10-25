@@ -22,7 +22,7 @@ async function contar_litros(){
     while (true){
     document.querySelector("#litros").innerText = litros
     await sleep(1 * 60000);
-    litros += 10.0619
+    litros += 10.06
     }
 }
 contar_litros();

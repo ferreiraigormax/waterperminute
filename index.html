@@ -6,11 +6,19 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <div>
+        <div class="container">
             <h1>Bem-vindo! </h1>
             <h2>Contador de água por minuto v1.0</h2>
-            <p id="tempo">0m</p>
-            <p id="litros">0L</p>
+            <div class="contadores">
+                <div class="box">
+                    <p id="minuto"></p>
+                    <p>Segundos</p>
+                </div>
+                <div class="box">
+                    <p id="litros"></p>
+                    <p>Litros</p>
+                </div>
+            </div>
             <p>Projeto criado para conscientização do despedicio de água no Brasil, a cada minuto é desperdiçado ...</p>
         </div>
         <script type="text/javascript" src="script.js"></script>

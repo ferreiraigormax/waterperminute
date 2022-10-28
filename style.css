@@ -5,24 +5,31 @@ body{
     display: box;
     justify-content: center;
     text-align: center;
-    border: solid red;
 }
 .contadores{
     display: box;
     justify-content: center;
     vertical-align: text-bottom;
-    border: solid red;
 }
-.box{
-    border: solid red;
+.box1{
+    display: flex;
+    justify-content: center;
+}
+.box2{
+    display: box;
+    justify-content: center;
+}
+#relogio, #torneira{
+    width: 60px;
+    height: 60px;
 }
 h1, h2, p{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
-#minuto{
-    font-size: 50px;
+#minutos, #horas, #segundos, .pontos{
+    font-size: 40px;
 }
 #litros{
-    font-size: 80px;
+    font-size: 70px;
 }

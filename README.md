@@ -34,3 +34,7 @@ lavar louças torneira meio aberta = 11L (110L / 10m)
 Lavar carro com mangueira = 18,66L (560L / 30 m)
 Lavar calçada com mangueira = 18,66L (280 L / 15m)
 Banho de chuveiro elétrico = 9,6L (144L / 15m)
+
+###### Progresso do projeto ######
+![Screen Shot 2022-10-25 at 13 24 35](https://user-images.githubusercontent.com/73723808/197829701-18af3a07-5662-4b10-858a-531233576909.png)
+Como é possível visualizar na imagem, o projeto ainda está em processo embrionário.
